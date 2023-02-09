@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Zerihun
+Hi 👋, I'm Zerihun.
+I am an Aspiring biomedical data scientist seeking to use my skills in data analysis and programming to make a positive impact in the healthcare industry.
 
 
 ## 🌐 Socials:
